@@ -1,25 +1,26 @@
-# Geovistory, a LOD Research Infrastructure for Historical Sciences
+# Workshop Kollaborativ FAIRe und offene Daten produzieren.Ein Hands-On Workshop mit Geovistory.
 
-Digital Humanities Conference, Washington, 06.08.2024
+Digital History und Citizen Science 2024, Halle, 20.09.2024
 
-# General links
+## Links
 
-Geovistory website: <https://www.geovistory.org/>
-Registering: <https://toolbox.geovistory.org/login>
+Geovistory Webseite: <https://www.geovistory.org/>
+Registrieren: <https://toolbox.geovistory.org/login>
 
-## Introduction Slides
+## Einleitung Folien
 
-<https://docs.google.com/presentation/d/1ZW165b91vAQzIBy1junsE_VXxNr5n4cyGbEsa3RvYGY/edit?usp=sharing>
+[<https://docs.google.com/presentation/d/1ZW165b91vAQzIBy1junsE_VXxNr5n4cyGbEsa3RvYGY/edit?usp=sharing>](https://docs.google.com/presentation/d/10M4QMheTkcn6u-gXjiPjz8DzcqS-dUDNpc2Wh4GamxY/edit?usp=sharing)
 
 ## Hands-on
 
-List of persons to add:
+Liste mit Personen zum Hinzufügen:
 <https://docs.google.com/document/d/1KeCX1yzNFHhkmeKTdPvqOtIfRYKjUEhOE6RJRcCz3VM/edit?usp=sharing>
 
-Step by step slides:
+Step by step Folien:
 <https://docs.google.com/presentation/d/1zBfhKs6E-sXKtIo2K9qvh0HxTEGPvAt5B03N67HI_RU/edit>
 
-## SPARQL queries:
+ 
+## SPARQL queries
 
 ### birth place of tagged entities
 
@@ -86,7 +87,7 @@ WHERE {
 }
 ```
 
-## To go further
+## Zum Weiterlesen
 
 Données ouvertes liées et recherche historique : un changement de paradigme. Beretta, F. Humanités numériques, July, 2023. Number: 7 Publisher: Humanistica <https://doi.org/10.4000/revuehn.3349>
 
